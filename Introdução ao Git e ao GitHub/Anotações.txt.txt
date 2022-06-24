@@ -1,0 +1,11 @@
+Link para Download do GIT: https://git-scm.com/downloads
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Como clonar o repositório:
+1- Criar repositório;
+2- Copiar Link HTML ou SSH;
+3- Abrir Git Bash;
+4 Inserir comando Git clone e colar o link do repositório.
+
+OBS: Será criada automáticamente uma pasta com os arquivos ".git" e "Readme.md".
